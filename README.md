@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaberkro
-- 👀 I’m interested in C
+- 👀 I’m interested in C, C++ and interactive installations
 - 🌱 I’m currently learning at Codam College
 - 📫 How to reach me: info@jorienaberkrom.com
 
