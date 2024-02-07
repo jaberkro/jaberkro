@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaberkro
 - 👀 I’m interested in C, C++ and interactive installations
 - 🌱 I’m currently learning at Codam Coding College
-- 📫 How to reach me: info@jorienaberkrom.com
+- 📫 How to reach me: jaberkro@student.codam.nl
 
 <!---
 
